@@ -1,5 +1,6 @@
-![](https://media.giphy.com/media/euGq9pgXoOVJcVhwRF/giphy.gif)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/euGq9pgXoOVJcVhwRF/giphy.gif" alt="animated" />
+</p>
 
 <p align="center"> 
   Visitor count<br>
