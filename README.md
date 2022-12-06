@@ -1,4 +1,4 @@
-![](https://giphy.com/gifs/dancing-kermit-8m4R4pvViWtRzbloJ1)
+![](https://media.giphy.com/media/etOX3h7ApZuDe7Fc5w/giphy-downsized-large.gif)
 
 <p align="center"> 
   Visitor count<br>
